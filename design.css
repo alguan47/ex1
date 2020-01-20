@@ -100,3 +100,30 @@ p{
 .food_card:hover{
 	background-color: #ffff81;
 }
+
+
+.hobbies_card{
+	margin-top: 10px;
+	border-radius: 15px;
+	border: 2px solid #ffd54f;
+	padding: 20px;
+	width: 100x;
+	height: 15px;
+}
+
+.hobbies_card:hover{
+	background-color: #ffff81;
+}
+
+.dream_card{
+	margin-top: 10px;
+	border-radius: 15px;
+	border: 2px solid #ffd54f;
+	padding: 20px;
+	width: 100x;
+	height: 15px;
+}
+
+.dream_card:hover{
+	background-color: #ffff81;
+}
